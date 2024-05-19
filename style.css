@@ -65,12 +65,3 @@
 	height: 5.6em;
 	overflow: hidden;
 }
-.product p:after {
-	content: '';
-	display: inline-block;
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 4.2em;
-	height: 1.6em;
-}
